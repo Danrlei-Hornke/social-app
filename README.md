@@ -20,5 +20,5 @@ Primeiro veja no arquivo .env.example as variaveis necesarias para o projeto e c
 ### `npm install` # ira baixar as dependencias nessesarias
 ### `npm run database` ira criar o banco de dados
 ### `npm run migrate` ira criar as tabelas e referencias nessesarias no banco de dados.
-### `npm run build` ira traspilar o codigo typescript para javascript
+### `npm run build` ira transpilar o codigo typescript para javascript
 ### `npm start` ira startar o backend

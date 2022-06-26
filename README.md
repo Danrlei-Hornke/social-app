@@ -4,6 +4,10 @@
 Aplicacão com frontend em feito em ReactJs e backend feito com NodeJs e banco de dados MySql usando o orm Sequelize.
 com opção de login utilizando a api do instagram e para simular os pagamentos foi utilizada a api de testes da stripo.
 
+
+## Paginas
+<img width="573" alt="Screenshot_2" src="https://user-images.githubusercontent.com/70984781/175795020-b42ac43c-aa5c-4309-94ef-72bc7f3f9de7.png">
+
 ## Como rodar o Projeto.
 #Primeiro Clone o projeto em sua maquina.
 

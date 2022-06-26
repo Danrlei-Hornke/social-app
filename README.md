@@ -2,7 +2,7 @@
 
 ## Descrição
 Aplicacão com frontend em feito em ReactJs e backend feito com NodeJs e banco de dados MySql usando o orm Sequelize.
-com opção de login utilizando a api do instagram e para simular os pagamentos foi utilizada a api de testes da stripo.
+com opção de login utilizando a api do instagram e para simular os pagamentos foi utilizada a api de testes da Stripe.
 
 
 ## Paginas
